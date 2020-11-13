@@ -1,4 +1,4 @@
-# Cloud::Infra
+# Cloud::Infra::Client
 
 A client which provides an interface to cloud.redhat RBAC and entitlements infrastructure services.
 
